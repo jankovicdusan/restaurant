@@ -27,7 +27,7 @@
         <a class="nav-link" href="routes.php?page=reservation">Reserve Now<span class="sr-only">(current)</span></a>
 
       </li>
-      <li class="nav-item">
+      <li class="nav-item active">
       <a class="nav-link" href="routes.php?page=allreservations">All reservations<span class="sr-only">(current)</span></a>
       </li>
     </ul>
